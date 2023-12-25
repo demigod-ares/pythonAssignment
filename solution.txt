@@ -1,0 +1,39 @@
+1.B) git rebase
+2.A) git commit cherry-pick
+3.C) git worktree
+
+4. To address a merge conflict in Git, I follow these steps:
+	1. Checkout the Target Branch:
+	git checkout main
+	2. Start the Merge:
+	git merge feature_branch
+	3. Conflict Occurs:
+	Git will notify you about the conflict.
+	4. Manually Resolve the Conflict:
+	Open the conflicted files in your IDE and manually resolve the conflicts. Git will mark the conflicting sections in the file.
+	5. Mark as Resolved:
+	After resolving the conflicts, mark the files as resolved.
+	git add <conflicted_file>
+	6. Complete the Merge:
+	git merge --continue
+	Alternatively, you can use git commit instead of git merge --continue to commit the resolution.
+	7. Finally, you will be able to push your changes.
+
+5.
+
+6.
+
+7. C) B only. I believe using Card B enhance the visual appeal of your application. Design considerations often include aesthetics, and Card B looks better. Card B has a dark border and different font formatting, contributing to what you perceive as a better visual appearance.
+
+8. C) useContext
+9. 	A) Assess the library's customization options
+	B) Evaluate community support and updates
+	C) Consider the library's impact on the overall bundle size.
+
+10. 	A) Code splitting
+	B) Tree shaking
+	C) Minification
+
+11.	A) Use a library like react-intl for message translation
+	B) Store translatable strings in separate JSON files
+	D) Ensure text is not embedded in images for translation flexibility
