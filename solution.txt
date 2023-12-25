@@ -19,9 +19,9 @@
 	Alternatively, you can use git commit instead of git merge --continue to commit the resolution.
 	7. Finally, you will be able to push your changes.
 
-5.
+5. https://github.com/demigod-ares/pythonAssignment/blob/main/day15.py
 
-6.
+6. https://github.com/demigod-ares/pythonAssignment/blob/main/day14.py
 
 7. C) B only. I believe using Card B enhance the visual appeal of your application. Design considerations often include aesthetics, and Card B looks better. Card B has a dark border and different font formatting, contributing to what you perceive as a better visual appearance.
 
